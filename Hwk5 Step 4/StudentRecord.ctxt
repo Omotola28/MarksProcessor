@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ studentMarks
+comment0.target=StudentRecord(java.lang.String,\ int[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentRecord\r\n@param\ studentMarks\ indicates\ number\ for\ length\ of\ array.\r\n@noOfMarks\ 3\ is\ the\ number\ of\ marks\ allocated\ to\ each\ student\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Accessor\ methods\ for\ the\ class\ StudentRecords\r\n
+comment2.params=
+comment2.target=int\ getNoOfMarks()
+comment3.params=
+comment3.target=int[]\ getMarks()
+numComments=4

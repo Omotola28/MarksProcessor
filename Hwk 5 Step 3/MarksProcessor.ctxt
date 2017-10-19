@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MarksProcessor()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MarksProcessor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNameOfCohort()
+comment1.text=\r\n\ Accessor\ methods\ for\ the\ class\ MarksProcessor\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getRecords()
+comment3.params=stuRecord
+comment3.target=void\ storeRecords(StudentRecord)
+comment3.text=\r\n\ Adds\ student\ Records\ to\ the\ MarksProcessor\r\n\r\n\ @param\ \ \ <code>stuRecord</code>\ an\ <code>StudentRecord</code>\ object,\ the\ records\ to\ be\ added\r\n
+comment4.params=fileName
+comment4.target=void\ readMarksData(java.lang.String)
+comment4.text=\r\n\ Reads\ marks\ data\ from\ a\ file\ and\ adds\ corresponding\ marks\ to\ the\ MarksProcessor\r\n\r\n\ @param\ \ \ <code>fileName</code>\ a\ <code>String</code>,\ the\ name\ of\ the\ \r\n\ \ \ \ \ \ \ \ \ \ text\ file\ in\ which\ the\ data\ is\ stored.\r\n\ \r\n\ @throws\ \ FileNotFoundException\r\n
+numComments=5
